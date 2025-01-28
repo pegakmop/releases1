@@ -1,5 +1,11 @@
 [
   {
+    "version": "1.0.129",
+    "versionInt": 129,
+    "link": "https://releases.yourok.ru/num/release/NUM_1.0.129-release.apk",
+    "desc": "-Откат okhttp к стабильному релизу для возможного исправления падения при работе с Quad9 DoH DNS\n-Обновление библиотек приложения\n\nСпасибо @tsynik"
+  },
+  {
     "version": "1.0.128",
     "versionInt": 128,
     "link": "https://releases.yourok.ru/num/release/NUM_1.0.128-release.apk",
